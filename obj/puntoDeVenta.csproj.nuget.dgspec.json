@@ -1,27 +1,25 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\ivan_\\Desktop\\CETYS\\QuintoSemestre\\PlataformasHeterogeneas\\puntoDeVenta\\puntoDeVenta.csproj": {}
+    "C:\\Users\\chris\\Documents\\GitHub\\PuntoDeVenta-\\puntoDeVenta.csproj": {}
   },
   "projects": {
-    "C:\\Users\\ivan_\\Desktop\\CETYS\\QuintoSemestre\\PlataformasHeterogeneas\\puntoDeVenta\\puntoDeVenta.csproj": {
+    "C:\\Users\\chris\\Documents\\GitHub\\PuntoDeVenta-\\puntoDeVenta.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\ivan_\\Desktop\\CETYS\\QuintoSemestre\\PlataformasHeterogeneas\\puntoDeVenta\\puntoDeVenta.csproj",
+        "projectUniqueName": "C:\\Users\\chris\\Documents\\GitHub\\PuntoDeVenta-\\puntoDeVenta.csproj",
         "projectName": "puntoDeVenta",
-        "projectPath": "C:\\Users\\ivan_\\Desktop\\CETYS\\QuintoSemestre\\PlataformasHeterogeneas\\puntoDeVenta\\puntoDeVenta.csproj",
-        "packagesPath": "C:\\Users\\ivan_\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\ivan_\\Desktop\\CETYS\\QuintoSemestre\\PlataformasHeterogeneas\\puntoDeVenta\\obj\\",
+        "projectPath": "C:\\Users\\chris\\Documents\\GitHub\\PuntoDeVenta-\\puntoDeVenta.csproj",
+        "packagesPath": "C:\\Users\\chris\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\chris\\Documents\\GitHub\\PuntoDeVenta-\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
-          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
-          "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\"
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\ivan_\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\chris\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
           "net8.0"
@@ -45,7 +43,8 @@
           "enableAudit": "true",
           "auditLevel": "low",
           "auditMode": "direct"
-        }
+        },
+        "SdkAnalysisLevel": "9.0.300"
       },
       "frameworks": {
         "net8.0": {
@@ -69,7 +68,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.403/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.305/PortableRuntimeIdentifierGraph.json"
         }
       }
     }
